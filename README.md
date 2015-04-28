@@ -13,6 +13,5 @@ Installation des paquets python nécessaires
 * `pip install --upgrade pip`
 * `pip install -r requirements.txt`
 
-
-
-
+Synchronisation de la base de données
+* `python manage.py migrate`
